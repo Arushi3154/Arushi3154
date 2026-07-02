@@ -1,5 +1,107 @@
-# 💫 About Me:
-Pre-final year B.Tech IoT student at MITS Gwalior (SGPA 8.55) with hands-on experience in machine learning, computer vision, deep learning, and LLM-based RAG pipelines. Completed research internship at MANIT Brain Computing Lab focused on physiological signal processing and statistical analysis. Built production-grade MLOps pipelines and LangChain applications using Claude and OpenAI APIs. Seeking internship roles in Data Science, AI/ML Engineering, Computer Vision, or Embedded AI.<br>
+# 👋 Hi, I'm Arushi Awasthi!
+### **IoT Engineer | Data Science | Machine Learning | Computer Vision | LLM Applications**
+
+<p align="left">
+  <a href="mailto:arushiawasthi2004@gmail.com"><img src="https://img.shields.io/badge/Email-arushiawasthi2004%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+---
+
+### 🚀 About Me
+I am a pre-final year **B.Tech Internet of Things (IoT)** student at **MITS Gwalior** with a strong passion for integrating intelligent software architectures with hardware data collection pipelines. My technical expertise spans **Machine Learning, Computer Vision, Deep Learning, and GenAI/LLM architectures (RAG)**. 
+
+I bridge the gap between physical sensors and cloud intelligence—whether it's building production-grade **MLOps pipelines**, engineering automated recruitment tools via **LangChain**, or handling complex **biomedical signal processing (EEG/EMG)** in research settings.
+
+---
+
+### 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>Deep Learning, Computer Vision, NLP, Generative AI, Predictive Modelling, Exploratory Data Analysis</td>
+  </tr>
+  <tr>
+    <td><b>LLM & RAG</b></td>
+    <td>LangChain, Claude (Anthropic), OpenAI Embeddings, ChromaDB, Prompt Engineering, RAG Pipelines</td>
+  </tr>
+  <tr>
+    <td><b>MLOps & Workflow</b></td>
+    <td>CI/CD for ML, Data Versioning (DVC), Model Tracking (MLflow), End-to-End ML Pipelines</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python (Advanced), C++, Java, SQL, C++ (Arduino)</td>
+  </tr>
+  <tr>
+    <td><b>Libraries & Frameworks</b></td>
+    <td>OpenCV, Dlib, scikit-learn, pandas, NumPy, matplotlib, seaborn, TensorFlow, PyTorch</td>
+  </tr>
+  <tr>
+    <td><b>IoT & Embedded Systems</b></td>
+    <td>Arduino, Raspberry Pi, Emotibit, EMG Sensors, Microcontrollers, Live Bio-signal Pipelines</td>
+  </tr>
+</table>
+
+---
+
+### 💼 Research & Professional Experience
+
+#### 🔬 Research Intern — Brain Computing Lab
+**Maulana Azad National Institute of Technology (MANIT), Bhopal** *(2025)*
+* Conducted physiological signal processing research under **Dr. M.K. Ahirwal**, focusing on **EEG and EMG bio-signal analysis**.
+* Operated Emotibit and EMG sensors within an IoT data-capture pipeline across 20+ experimental sessions.
+* Applied **ANOVA statistical testing** to evaluate sensor data, validating core research hypotheses.
+* Designed advanced preprocessing algorithms for noisy bio-signal datasets, expanding signal-to-noise ratios for downstream ML classifiers.
+
+#### 📊 Data Science Intern
+**Personifwy, Bangalore (Remote)** *(2025)*
+* Analysed multi-dimensional datasets to surface actionable business insights using Python, pandas, and seaborn.
+* Built EDA dashboards and feature engineering pipelines that accelerated team model iteration cycles.
+
+#### 🎓 Data Science Trainee
+**IIT Roorkee (Remote)**
+* Completed intensive training in data wrangling, visualization, and predictive modelling.
+* Implemented and evaluated multiple supervised learning models with strict adherence to reproducibility standards.
+
+---
+
+### 📂 Featured Projects
+
+#### 🤖 LLM Resume Analyser and Job Matcher
+* **Tech Stack:** LangChain, Claude (Anthropic), OpenAI Embeddings, ChromaDB, Vector DBs
+* Built an automated RAG-based recruitment pipeline that parses resume text, evaluates skill gaps against jobs, computes JD matching indexes, and auto-generates custom cover letters.
+
+#### 🔄 MLOps Customer Churn Prediction Pipeline
+* **Tech Stack:** Python, DVC (Data Versioning), MLflow (Model Tracking), CI/CD
+* Engineered a production-grade end-to-end Machine Learning pipeline featuring automated data pipelines, continuous tracking, and live monitoring benchmarks.
+
+#### 🚗 Driver Drowsiness Detection System
+* **Tech Stack:** Python, OpenCV, Dlib
+* Developed a real-time facial landmark monitoring system with precise alert metrics for active driver fatigue detection. *Mentored by Dr. Saurabh Singh Rajput (MITS Gwalior).*
+
+#### 👶 Autism Detection System for Kids
+* **Tech Stack:** Deep Learning, CNN, Python
+* Built a deep-learning facial recognition classifier identifying early structural autism markers from target images to provide scalable, accessible screening.
+
+#### 🩺 SpO2 Real-Time Health Monitor & EMG Assessment
+* **Tech Stack:** Arduino, MAX30100, Emotibit, C++, Python
+* Built dual systems: a physical pulse oximetry hardware device capturing live vitals with threshold alerts, and a separate live bio-signal capture pipeline classifying ergonomic cognitive workloads.
+
+---
+
+### 🏅 Certifications & Simulations
+* **NPTEL ELITE Certification:** Introduction to Internet of Things and Industrial IoT (IIoT)
+* **Tata Consultancy Services:** Generative AI-Powered Data Analysis Job Simulation
+* **JPMorgan Chase / Commonwealth Bank:** Software Engineering Job Simulations
+* **British Airways:** Data Science Job Simulation
+
+---
+
+### ⚡ Leadership & Creative Balance
+* **Head Student Coordinator @ MITS Startup Cell:** Spearheaded campus entrepreneurship initiatives, organizing the flagship event *3rd Eye Perception (Jan 2026)* for 200+ attendees.
+* **Bachelor of Arts in Kathak (Classical Dance):** Pursuing a dual-degree concurrently with my B.Tech, demonstrating extensive organizational discipline and time-management skills.
 
 
 ## 🌐 Socials:
