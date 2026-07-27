@@ -77,7 +77,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 * **Tech Stack:** Python, DVC (Data Versioning), MLflow (Model Tracking), CI/CD
 * Engineered a production-grade end-to-end Machine Learning pipeline featuring automated data pipelines, continuous tracking, and live monitoring benchmarks.
 
-#### 🚗 Driver Drowsiness Detection System
+####  Driver Drowsiness Detection System
 * **Tech Stack:** Python, OpenCV, Dlib
 * Developed a real-time facial landmark monitoring system with precise alert metrics for active driver fatigue detection. *Mentored by Dr. Saurabh Singh Rajput (MITS Gwalior).*
 
