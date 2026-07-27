@@ -85,7 +85,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 * **Tech Stack:** Deep Learning, CNN, Python
 * Built a deep-learning facial recognition classifier identifying early structural autism markers from target images to provide scalable, accessible screening.
 
-#### 🩺 SpO2 Real-Time Health Monitor & EMG Assessment
+####  SpO2 Real-Time Health Monitor & EMG Assessment
 * **Tech Stack:** Arduino, MAX30100, Emotibit, C++, Python
 * Built dual systems: a physical pulse oximetry hardware device capturing live vitals with threshold alerts, and a separate live bio-signal capture pipeline classifying ergonomic cognitive workloads.
 
