@@ -69,7 +69,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 
 ### 📂 Featured Projects
 
-#### 🤖 LLM Resume Analyser and Job Matcher
+####  LLM Resume Analyser and Job Matcher
 * **Tech Stack:** LangChain, Claude (Anthropic), OpenAI Embeddings, ChromaDB, Vector DBs
 * Built an automated RAG-based recruitment pipeline that parses resume text, evaluates skill gaps against jobs, computes JD matching indexes, and auto-generates custom cover letters.
 
