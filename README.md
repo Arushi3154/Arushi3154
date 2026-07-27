@@ -81,7 +81,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 * **Tech Stack:** Python, OpenCV, Dlib
 * Developed a real-time facial landmark monitoring system with precise alert metrics for active driver fatigue detection. *Mentored by Dr. Saurabh Singh Rajput (MITS Gwalior).*
 
-#### 👶 Autism Detection System for Kids
+####  Autism Detection System for Kids
 * **Tech Stack:** Deep Learning, CNN, Python
 * Built a deep-learning facial recognition classifier identifying early structural autism markers from target images to provide scalable, accessible screening.
 
