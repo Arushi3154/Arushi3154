@@ -73,7 +73,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 * **Tech Stack:** LangChain, Claude (Anthropic), OpenAI Embeddings, ChromaDB, Vector DBs
 * Built an automated RAG-based recruitment pipeline that parses resume text, evaluates skill gaps against jobs, computes JD matching indexes, and auto-generates custom cover letters.
 
-#### 🔄 MLOps Customer Churn Prediction Pipeline
+#### MLOps Customer Churn Prediction Pipeline
 * **Tech Stack:** Python, DVC (Data Versioning), MLflow (Model Tracking), CI/CD
 * Engineered a production-grade end-to-end Machine Learning pipeline featuring automated data pipelines, continuous tracking, and live monitoring benchmarks.
 
