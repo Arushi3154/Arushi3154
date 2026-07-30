@@ -114,7 +114,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 ![](https://streak-stats.demolab.com/?user=Arushi3154&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arushi3154&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arushi3154&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
