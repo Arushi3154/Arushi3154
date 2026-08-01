@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arushi Awasthi!
+#  Hi, I'm Arushi Awasthi!
 ### **IoT Engineer | Data Science | Machine Learning | Computer Vision | LLM Applications**
 
 <p align="left">
