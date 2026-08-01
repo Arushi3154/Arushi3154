@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a pre-final year **B.Tech Internet of Things (IoT)** student at **MITS Gwalior** with a strong passion for integrating intelligent software architectures with hardware data collection pipelines. My technical expertise spans **Machine Learning, Computer Vision, Deep Learning, and GenAI/LLM architectures (RAG)**. 
 
 I bridge the gap between physical sensors and cloud intelligence—whether it's building production-grade **MLOps pipelines**, engineering automated recruitment tools via **LangChain**, or handling complex **biomedical signal processing (EEG/EMG)** in research settings.
