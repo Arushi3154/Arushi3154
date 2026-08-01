@@ -15,7 +15,7 @@ I bridge the gap between physical sensors and cloud intelligence—whether it's 
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <table>
   <tr>
